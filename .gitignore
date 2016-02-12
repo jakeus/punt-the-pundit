@@ -38,10 +38,8 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
 .loadpath
 .externalToolBuilders/
-*.launch
 
 ## NetBeans
 **/nbproject/private/
@@ -53,9 +51,6 @@ nbactions.xml
 nb-configuration.xml
 
 ## Gradle
-
-.gradle
-gradle-app.setting
 build/
 
 ## OS Specific
